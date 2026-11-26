@@ -4,9 +4,9 @@
 
 ## Identificación (completa antes del primer ejercicio)
 
-- **Nombre y apellido:**
-- **Fecha:**
-- **URL del repositorio:**
+- **Nombre y apellido: Carlos palmero**
+- **Fecha: 25 Nov. 2026**
+- **URL del repositorio: https://github.com/kakePalmerow/Labo11.git**
 
 ## Objetivos
 
